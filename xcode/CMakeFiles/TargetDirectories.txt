@@ -1,3 +1,0 @@
-/Users/hubq/Documents/SelfDriving/Term2/CarND-Unscented-Kalman-Filter-Project/ide_rofiles/xcode/CMakeFiles/UnscentedKF.dir
-/Users/hubq/Documents/SelfDriving/Term2/CarND-Unscented-Kalman-Filter-Project/ide_rofiles/xcode/CMakeFiles/ALL_BUILD.dir
-/Users/hubq/Documents/SelfDriving/Term2/CarND-Unscented-Kalman-Filter-Project/ide_rofiles/xcode/CMakeFiles/ZERO_CHECK.dir
